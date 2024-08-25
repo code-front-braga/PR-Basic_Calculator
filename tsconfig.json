@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "target": "ES2023",
+    // "sourceMap": true,
+    "outDir": "dist/js",
+    "strict": true
+  },
+  "include": ["src/assets/scripts/**/*"]
+}
