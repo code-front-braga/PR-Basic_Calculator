@@ -89,5 +89,5 @@ Este projeto está licenciado sob a licença MIT.
 ## 🧑🏻‍💻 Autor:
 
 <a href="https://github.com/code-front-braga" style="text-align: justify;">
-<img src="./src/assets/images/logo.png" alt="Logo" style="width: 160px;">
+<img src="./src/assets/images/F_L_2.svg" alt="Logo" style="width: 160px;">
 </a>
