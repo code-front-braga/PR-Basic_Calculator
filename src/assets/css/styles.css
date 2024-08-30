@@ -118,24 +118,32 @@ button:active {
 }
 
 .footer-content {
-  background: #000;
-  color: var(--aqua-spring);
+  /* background: #bf9d7a; */
+  color: #000;
   border-radius: 4px;
 
   margin: auto;
 
   display: flex;
   align-items: center;
+  justify-content: center;
   font-size: 1.6rem;
-  padding-left: 2.6rem;
+  gap: 2rem;
+  padding: .6rem 2rem;
 }
 
-.footer-content img {
+/* .footer-content img {
   width: 18rem;
-}
+} */
 
 .ph-math-operations {
   color: var(--caribbean-green);
+}
+
+.svg {
+  width: 18rem;
+
+  filter: contrast(260%);
 }
 
 @media only screen and (max-width: 460px) {

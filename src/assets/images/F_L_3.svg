@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 103.7659 234.6202 82.8544" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Be Vietnam Pro">@import url(https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C100%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700%3B1%2C800%3B1%2C900&amp;display=swap);</style>
+  </defs>
+  <g>
+    <g transform="matrix(1, 0, 0, 1, -38.960847, 82.852227)">
+      <polygon class="cls-8" points="106.719 38.255 97.522 38.255 80 92.485 89.154 92.485 90.263 89.128 100.243 58.311 106.719 38.255" style="fill-rule: nonzero; paint-order: fill; fill-opacity: 0.82; fill: rgb(180, 222, 193);"/>
+      <path d="M 93.277 92.321 C 131.037 94.498 132.925 57.992 105.006 55.941" style="paint-order: fill; fill-opacity: 0.82; fill: rgb(92, 88, 99);"/>
+      <polygon class="cls-8" points="94.693 38.395 85.496 38.395 67.974 92.625 77.128 92.625 78.237 89.268 88.217 58.451 94.693 38.395" style="fill-rule: nonzero; paint-order: fill; fill-opacity: 0.82; fill: rgb(180, 222, 193);"/>
+      <text style="fill: rgb(92, 88, 99); font-family: Constantia; font-size: 28px; white-space: pre;" transform="matrix(1.766549, 0, 0, 2.41336, -25.823796, -82.844125)" x="36.673" y="69.759">{</text>
+      <text style="fill: rgb(250, 250, 250); font-family: 'Be Vietnam Pro'; font-size: 39px; font-weight: 900; letter-spacing: -1.7px; text-transform: lowercase; white-space: pre;" x="10"><tspan x="122.998" y="90.376" style="fill: rgb(168, 81, 99); font-size: 39px; word-spacing: 0px; letter-spacing: -1.7px;">.</tspan><tspan style="fill: rgb(241, 239, 242); font-size: 39px; word-spacing: 0px; letter-spacing: -1.7px;">code</tspan></text>
+      <text style="fill: rgb(168, 81, 99); font-family: Arial, sans-serif; font-size: 33px; font-weight: 700; white-space: pre;" x="262.581" y="75.073">;</text>
+    </g>
+    <text style="fill: rgb(92, 88, 99); font-family: Constantia; font-size: 28px; white-space: pre;" transform="matrix(1.877141, 0, 0, 2.399886, -226.254428, -33.666848)" x="229.675" y="84.002">}</text>
+  </g>
+</svg>
