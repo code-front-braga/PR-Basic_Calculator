@@ -129,7 +129,7 @@ button:active {
   justify-content: center;
   font-size: 1.6rem;
   gap: 2rem;
-  padding: .6rem 2rem;
+  padding: 0.6rem 2rem;
 }
 
 /* .footer-content img {
@@ -141,7 +141,7 @@ button:active {
 }
 
 .svg {
-  width: 18rem;
+  width: 12rem;
 
   filter: contrast(260%);
 }

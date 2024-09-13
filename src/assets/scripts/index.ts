@@ -4,7 +4,7 @@ const clearButton = document.querySelector('.clear-display');
 const equalsButton = document.querySelector('.equal');
 
 function appendToDisplay(value: string) {
-  if (value === '=' || value === 'C') return; // Ignora os botões de "=" e "C"
+  if (value === '=' || value === 'C') return;
 
   const isOperator = /[+\-*/]/.test(value);
   const formattedValue = isOperator ? ` ${value} ` : value;
